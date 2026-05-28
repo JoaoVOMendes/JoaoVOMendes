@@ -20,6 +20,8 @@ Sou estudante focado em **Data Science e Inteligência Artificial**, com interes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -28,6 +30,10 @@ Sou estudante focado em **Data Science e Inteligência Artificial**, com interes
 ### 📊 [Dashboard de Vendas — Superstore](https://github.com/JoaoVOMendes/dashboard-vendas-superstore)
 Análise exploratória e visualização de dados de vendas de uma rede varejista.  
 Métricas de desempenho por categoria, região e período com Python.
+
+### 📋 [Dashboard de Gestão de Incidentes de TI](https://github.com/JoaoVOMendes/dashboard-incidentes-ti)
+Painel analítico em Power BI para análise de chamados técnicos — recorrência, tendência, sazonalidade e SLA.  
+Base de 2.500 registros sintéticos com medidas DAX e KPIs operacionais.
 
 ---
 
